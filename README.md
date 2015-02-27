@@ -7,3 +7,4 @@ The program was created by Corey White a.k.a "Treatz", but anyone can contribute
 
 
 Corey's website can be found at http://www.streetwitch.com
+The GitHub can be found at: http://treatz.github.io/phiction_phreak/
