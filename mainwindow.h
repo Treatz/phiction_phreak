@@ -2,6 +2,11 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+void load_db0();
+void load_db1();
+extern QString db_num[];
+extern QString c_db[];
+extern QString db[];
 
 namespace Ui {
 class MainWindow;
@@ -28,7 +33,6 @@ private slots:
 
     int on_search(int choose);
 
-     void MyOwnSlot(const QUrl &url);
      void my_search(const QUrl &url);
 
 private:
