@@ -6,8 +6,6 @@
 QString db[24810];
 
 void load_db0(){
-
-QString db[24810];
 db[0]=" a ";
 db[1]=" a better ";
 db[2]=" a better look ";
