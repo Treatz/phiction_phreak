@@ -1,4 +1,5 @@
 #include <QMessageBox>
+#include <QStringList>
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 
@@ -42,7 +43,7 @@ int MainWindow::on_search(int choose)
                         slist[l].append(" ");
             }
         QString myString = "";
-           for(int i=0; i<24810; i++){
+           for(int i=0; i<db.count()-1; i++){
                int counter=0;
               for(int b=0; b<slist.size(); b++){
             int start = db[i].indexOf(slist.at(b), 0, Qt::CaseInsensitive);
@@ -87,7 +88,7 @@ int MainWindow::on_search(int choose)
 
        int total = 0;
        QString myString = "";       
-       for(int i=0; i<24810; i++){
+       for(int i=0; i<db.count()-1; i++){
 
            QStringList winkle = db[i].split(" ");
            for(int l=1; l<winkle.size(); l++){
@@ -145,7 +146,7 @@ void MainWindow::on_pushButton_3_clicked()
 
     QString myString = "<table>";
     int total = 0;
-    for(int i=0; i<=3455; i++){
+    for(int i=0; i<=c_db.count()-1; i++){
      myString.append("<tr><td><a href=\"");
      myString.append(c_db[i]);
      myString.append("\" STYLE=\"font-size: 13pt; font-weight: lighter; color:black; text-decoration: none\">");
@@ -193,7 +194,7 @@ void MainWindow::my_search(const QUrl &url){
 
         QString myString = "";
 
-           for(int i=0; i<24810; i++){
+           for(int i=0; i<db.count()-1; i++){
 
 
 if((db[i].indexOf(input, 0, Qt::CaseInsensitive))!=-1)

@@ -1,12 +1,12 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
-
+#include <QStringList>
 #include <QMainWindow>
 void load_db0();
 void load_db1();
-extern QString db_num[];
-extern QString c_db[];
-extern QString db[];
+extern QStringList db_num;
+extern QStringList c_db;
+extern QStringList db;
 
 namespace Ui {
 class MainWindow;
