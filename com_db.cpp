@@ -4,6 +4,7 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 
+QStringList db;
 QStringList db_num;
 QStringList c_db;
 
@@ -19,6 +20,12 @@ void load_db1(){
         while(query.next()){
             c_db << query.value(1).toString();
             db_num << query.value(0).toString();
+        }
+
+    }
+    if(query.exec("SELECT * FROM phictionphreak")){
+        while(query.next()){
+            db <<" " + query.value(0).toString();
         }
 
     }

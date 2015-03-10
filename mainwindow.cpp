@@ -10,7 +10,6 @@ MainWindow::MainWindow(QWidget *parent) :
       ui->setupUi(this);
       connect(ui->textBrowser, SIGNAL(anchorClicked(QUrl)), this, SLOT(my_search(QUrl)));
       load_db1();
-      load_db0();
 }
 
 MainWindow::~MainWindow()

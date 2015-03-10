@@ -14,7 +14,6 @@ TEMPLATE = app
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    main_db.cpp \
     com_db.cpp
 
 HEADERS  += mainwindow.h
