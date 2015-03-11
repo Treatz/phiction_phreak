@@ -25,7 +25,7 @@ void load_db1(){
     }
     if(query.exec("SELECT * FROM phictionphreak")){
         while(query.next()){
-            db <<" " + query.value(0).toString();
+            db <<" " + query.value(0).toString() + " ";
         }
 
     }
