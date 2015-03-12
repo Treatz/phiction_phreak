@@ -18,7 +18,7 @@ void load_db1(){
     QSqlQuery query;
     if(query.exec("SELECT * FROM words")){
         while(query.next()){
-            c_db << query.value(1).toString();
+            c_db << " " + query.value(1).toString() + " ";
             db_num << query.value(0).toString();
         }
 
