@@ -539,8 +539,8 @@ header a.button {
 aside a.button {
   display: block;
   width: 138px;
-  padding-left: 64px;
-  margin-bottom: 20px;
+  padding-left: 10px;
+  margin-bottom: 5px;
   font-size: 21px;
   background: transparent url(../images/download-button.png) 0 0 no-repeat;
 }
