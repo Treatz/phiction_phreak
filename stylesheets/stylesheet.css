@@ -540,7 +540,7 @@ aside a.button {
   display: block;
   width: 225px;
   padding-left: 64px;
-  margin-bottom: 20px;
+  margin-bottom: 100px;
   font-size: 18px;
   background: transparent url(../images/download-button2.png) 0 0 no-repeat;
 }
