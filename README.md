@@ -16,7 +16,7 @@ Qt is extremely well documented and can be got from http://www.qt.io/
 
 ## Contributors
 
-Phiction Phreak was created by Corey White, but the project welcomes any contributions
+Phiction Phreak was created by Corey White, but the project welcomes your contributions
 
 ## License
 
