@@ -4,7 +4,7 @@ Phiction Phreak is a database created to assit the user in writing and developin
 
 ## Motivation
 
-Phiction Phreak was created because I wanted to write a novel and thought the best way to start would be to read everything I could get my hands on.  I saved little pieces of the books and over time they became a database, so I could always fall back on it when writing my own fiction.
+Phiction Phreak was created because I wanted to write a novel and thought the best way to start would be to read everything I could get my hands on.  I saved little pieces of what I read and over time they became a database, so I could always fall back on it when writing my own fiction.
 
 ## Installation
 
