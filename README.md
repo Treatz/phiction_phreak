@@ -1,17 +1,17 @@
 ## Synopsis
 
-Phiction Phreak is a database created to assit the user in writing and developing fiction.  Anything you write with Phiction Phreak is yours to keep with no attatched licenses.  It is intended to be used as a "ghost writer", so no mention of it has to be made when publishing the final version of your work.  The software is built into a GUI that allows you to easily browse and search through the database. As a general rule, clicking on any word inside of the window will open up a new search with that term.  You can search for anything, or view the entire database at once.  There is also a list of the most common words in the database which allows you to sort and not just search.
+Phiction Phreak is a database created to assit you in writing and developing fiction. Anything you write with Phiction Phreak is yours to keep with no attatched licenses. It is intended to be used as a "ghost writer", so no mention of it has to be made when publishing the final version of your work. The software is built into a GUI that allows you to easily browse and search through the database. As a general rule, clicking on any word inside of the window will open up a new search for that term. You can search for anything, or view the entire database at once. There is also a list of the most common words in the database which allows you to sort through the database instead off search. 
 
 ## Motivation
 
-Phiction Phreak was created because I wanted to write a novel and thought the best way to start would be to read everything I could get my hands on.  I saved little pieces of what I read and over time they became a database.
+Phiction Phreak was created because I wanted to write a novel and thought the best way to start would be to read everything I could get my hands on. I saved little pieces of what I read and over time they became a database. 
 
 ## Installation
 
-If you want to compile Phiction Phreak, you will need to download Qt.  Qt is a cross platform library and IDE, that used C++ to build world class applications and graphical user interfaces.  If you don't know what that is then you can download the Windows binary and unzip it into any directory.  Hopefully in the future we will have executables available for OS X.
+If you want to compile Phiction Phreak, you will need to download Qt. Qt is a cross platform library and IDE that uses C++ to build world class applications. If you don't feel comfortable compiling the source code then you can download Windows and mac binaries and install it into any directory. 
 
 ## API Reference
-Qt is extremely well documented and can be got from http://www.qt.io/ 
+Qt is extremely well documented and can be downloaded from http://www.qt.io/
 
 
 ## Contributors
