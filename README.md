@@ -20,7 +20,8 @@ Phiction Phreak was created by Corey White, but the project welcomes your contri
 
 ## License
 
-Phiction Phreak, A database to rapidly develop fiction
+Phiction Phreak, A database to rapidly develop fiction.
+
 Copyright (C) 2015 Corey White
 
 This program is free software; you can redistribute it and/or
