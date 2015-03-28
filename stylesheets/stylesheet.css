@@ -153,7 +153,9 @@ mark {
 small {
   font-size: 80%;
 }
-
+less {
+  font-size: 90%;
+}
 /**
  * Prevent `sub` and `sup` affecting `line-height` in all browsers.
  */
