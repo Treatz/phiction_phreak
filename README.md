@@ -10,6 +10,10 @@ Phiction Phreak was created because I wanted to write a novel and thought the be
 
 If you want to compile Phiction Phreak, you will need to download Qt. Qt is a cross platform library and IDE that uses C++ to build world class applications. If you don't feel comfortable compiling the source code then you can download Windows and mac binaries and install it into any directory. 
 
+After you download the program, conisder getting the latest database for Phiction Phreak.  New additions of the database are always being added, and won't necessarily be part of future binary releases.
+
+Everything you need to install Phiction Phreak can be found on GitHub here: http://treatz.github.io/phiction_phreak/
+
 ## API Reference
 Qt is extremely well documented and can be downloaded from http://www.qt.io/
 
@@ -17,6 +21,7 @@ Qt is extremely well documented and can be downloaded from http://www.qt.io/
 ## Contributors
 
 Phiction Phreak was created by Corey White, but the project welcomes your contributions
+Corey can be contacted at adventmagic@gmail.com
 
 ## License
 
