@@ -21,6 +21,7 @@ Qt is extremely well documented and can be downloaded from http://www.qt.io/
 ## Contributors
 
 Phiction Phreak was created by Corey White, but the project welcomes your contributions
+
 Corey can be contacted at adventmagic@gmail.com
 
 ## License
